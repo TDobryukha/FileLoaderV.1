@@ -1,0 +1,4 @@
+# Project exclude paths
+/FileLoaderV1/.gradle/
+/FileLoaderV1/build/
+/FileLoaderV1/build/classes/java/main/
